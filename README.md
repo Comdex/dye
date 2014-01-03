@@ -20,7 +20,7 @@ import (
 )
 
 func main() {
-    input := "puts \"Hello world!\"
+    input := "puts \"Hello world!\""
     fmt.Printf(dye.Highlight(input, "ruby", "html", "utf-8"))
 }
 ```
