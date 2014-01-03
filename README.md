@@ -1,4 +1,3 @@
-dye
-===
+# dye
 
 Go wrapper for Pygments
